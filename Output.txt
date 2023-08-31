@@ -1,0 +1,16 @@
+Phonebook Menu
+(1) Add Friend
+(2) Delete Friend
+(3) Display Phonebook Entries
+(4) Search for Phone Number
+(5) Exit Phonebook 
+What would you like to do? 1 
+First Name: THEJAS
+Last Name: KUMAR.B
+Phone Number (XXX-XXX-XXXX): 9827164879
+Your Friend successfully added to Phonebook
+Phonebook Entries:
+(1)
+Name: THEJAS KUMAR.B 
+Number: 9827164879
+You have chosen to exit the Phonebook.
